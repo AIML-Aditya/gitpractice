@@ -1,0 +1,33 @@
+@import "tailwindcss";
+
+.app {
+  @apply min-h-screen;
+}
+
+.header {
+  @apply bg-gray-800 text-white py-6;
+}
+
+.logo {
+  @apply text-4xl font-bold;
+}
+
+.hero {
+  @apply pt-20 pb-12;
+}
+
+.hero h1 {
+  @apply text-5xl font-extrabold mb-4;
+}
+
+.hero p {
+  @apply text-lg leading-relaxed mx-auto max-w-screen-md;
+}
+
+.footer {
+  @apply bg-gray-800 text-white py-6;
+}
+
+.copyright {
+  @apply text-sm;
+}
