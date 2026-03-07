@@ -19,7 +19,7 @@ const Footer = () => (
     <Container>
       <Row>
         <Col xs="12" className={`text-center ${styles.copyright}`}>
-          Copyright © 2023 GhostRider Landing Page
+          Copyright © 2023 GhostRider Landing Page!
         </Col>
       </Row>
     </Container>
